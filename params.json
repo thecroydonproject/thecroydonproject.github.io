@@ -1,0 +1,6 @@
+{
+  "name": "thecroydonproject.GitHub.io",
+  "tagline": "",
+  "body": "### Welcome to thecroydonproject.\r\n\r\nThis is a small project by the Go and AWS Croydon Interest group. The aim of the project is to\r\n\r\n1. give the group something to talk about\r\n2. apply new technologies\r\n3. teach and learn\r\n4. write code and deploy\r\n\r\n### what is it\r\n\r\nThe project aims to collect and provide access to crystal palace fc results since 1936.  the following modules make up the project :\r\n\r\n1) data scrapper - collects game data from various websites\r\n2) data source - a file server to hold data scrapped from website\r\n3) data upload - uploads data in 2 into a postgres db\r\n4) db - holds holds game data\r\n5) db service - restful interface to postgres data \r\n6) front module - consumes the service in 5 and renders output \r\n\r\n\r\n### Technology \r\n\r\n1. Go\r\n2. Kubernetes\r\n\r\n### Who\r\n\r\n\r\n\r\n\r\n### Support or Contact\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
